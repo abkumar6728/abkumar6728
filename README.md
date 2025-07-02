@@ -1,8 +1,21 @@
-### Hi there, I'm Abhishek 👋
+## 👋 Hi, I'm Abhishek!
 
-🎓 I'm currently a 2nd year BCA student with a deep interest in **Data Science**, **Python programming**, and **AI**.  
-🚀 Actively building my skills through hands-on projects, online bootcamps like the **GFG Data Science Bootcamp**, and preparing for the **IBM AI Agent Architect** certification in July.  
-🧠 Planning to explore **ChatGPT** and **Generative AI** later via **GeeksforGeeks**.
+🎓 I'm a second-year #BCA student passionate about #DataScience, #PythonProgramming, and #ArtificialIntelligence.
+
+🚀 Currently leveling up my skills through:
+- 🤖 IBM’s #AI Agent Architect Program  
+- 📊 Preparing for the Google #AdvancedDataAnalytics Certification
+
+💡 I love working with data, building intelligent solutions, and using #MachineLearning to solve real-world problems.
+
+🧠 Upcoming goals:
+- Exploring #GenerativeAI and #ChatGPT
+- Building real projects with #Python, #Pandas, #NumPy, and more
+
+📫 Let's connect and collaborate on meaningful tech projects!
+
+#IBM #GoogleCertifications #AI #DataAnalytics #TechStudent #OpenToCollaborate
+
 
 ---
 
